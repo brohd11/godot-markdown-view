@@ -2,5 +2,5 @@
 
 class_name MarkdownView
 
-const Parser = preload("res://addons/_lib/markdown_view/src/markdown_parser.gd") # res://addons/_lib/markdown_view/src/markdown_parser.gd
-const View = preload("res://addons/_lib/markdown_view/src/markdown_view.gd") # res://addons/_lib/markdown_view/src/markdown_view.gd
+const Parser = preload("uid://ct8civnuqvg81") # res://addons/_lib/markdown_view/src/markdown_parser.gd
+const View = preload("uid://bwtay2k1o6eyg") # res://addons/_lib/markdown_view/src/markdown_view.gd
