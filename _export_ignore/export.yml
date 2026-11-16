@@ -35,15 +35,3 @@ exports:
     source: "res://addons/_lib/markdown_view"
     export_name: "markdown-view{{version=res://addons/_lib/markdown_view}}"
     export_folder: addons/_lib/markdown_view
-    exclude:
-      directories:
-        - "res://addons/_lib/markdown_view/_export_ignore"
-      file_extensions: []
-      files: []
-    other_transfers: []
-    parser_overide_settings:
-      parse_cs: {}
-      parse_gd: {}
-      parse_tscn: {}
-      parse_tres: {}
-    remote_dir: "res://addons/_lib/markdown_view/src/remote"
